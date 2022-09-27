@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "165494753120",
+    "project_id": "snake-ladders-expert-ff",
+    "storage_bucket": "snake-ladders-expert-ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165494753120:android:0383be5c427c9abb5c4005",
+        "android_client_info": {
+          "package_name": "com.mycompany.snakesladders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165494753120-01s5e0ld7clng3492e3v6ehn8q6kcv07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCezfb6lXEq69drdYYiQ2FLsp7QbAynjDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165494753120-01s5e0ld7clng3492e3v6ehn8q6kcv07.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "165494753120-0an9834o1e39ci7kmmhvp2pg862mv781.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.snakesladders"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
